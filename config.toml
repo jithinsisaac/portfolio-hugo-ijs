@@ -1,5 +1,5 @@
-baseurl = "https://jithinsisaac.github.io"
-title = "johndoe"
+baseurl = "https://jithinisaac.dblabs.in"
+title = "Home"
 
 theme = "hugo-coder"
 
@@ -16,10 +16,10 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
+    author = "Jithin Saji Isaac"
     description = "John Doe's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "Embedded IoT Expertise | Full Stack Web Dev Hobbyist"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
@@ -70,12 +70,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://github.com/johndoe/" 
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
@@ -85,19 +80,7 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://www.linkedin.com/in/johndoe/" 
 
 
 [languages]
