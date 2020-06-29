@@ -18,7 +18,7 @@ Don Bosco Institute of Technology, Mumbai.
 * Internet of Things
 * Low Power WANs & PANs
 * Low Cost Hardware Prototyping
-* PCB Designing* 
+* PCB Designing 
 * Full Stack Web Development
  
  ## Interests
