@@ -17,12 +17,12 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Jithin Saji Isaac"
-    description = "John Doe's personal website"
+    description = "Jithin Isaac's personal website"
     keywords = "blog,developer,personal"
     info = "Embedded IoT Expertise | Full Stack Web Dev Hobbyist"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.jpeg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    footercontent = "Welcome!"
 
     dateformat = "January 2, 2006"
 
@@ -80,7 +80,7 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/" 
+    url = "https://www.linkedin.com/in/jithin-saji-isaac" 
 
 
 [languages]
