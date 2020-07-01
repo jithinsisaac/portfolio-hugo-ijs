@@ -85,7 +85,7 @@ disqusShortname = "yourdiscussshortname"
 
 [languages]
     [languages.en]
-        languagename = "English"
+        languagename = "English" 
 
         [languages.en.menu]
 
@@ -110,8 +110,17 @@ disqusShortname = "yourdiscussshortname"
             url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Contact"
             weight = 5
             url = "contact/"
+         
 
- 
+     [languages.hi]
+        languagename = "हिन्दी"
+        title = "घर"
+
+        [languages.hi.params]
+            author = "जितिन सजी ऐसक" 
+            footercontent = "स्वागत हे!"            
+            colorscheme = "dark"
+
