@@ -112,6 +112,11 @@ disqusShortname = "yourdiscussshortname"
             name = "Contact"
             weight = 5
             url = "contact/"
+
+            [[languages.en.menu.main]]
+            name = "CV"
+            url = "files/JithinIsaac_DBITResume.pdf"
+            weight = 6
        
     [languages.hi]
         languagename = "हिन्दी"
