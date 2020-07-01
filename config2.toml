@@ -1,0 +1,25 @@
+[[menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+[[menu.main]]
+            name = "Skillset"
+            weight = 2
+            url = "skills/" 
+[[menu.main]] 
+            name = "Blog"
+            weight = 3
+            url = "posts/"
+[[menu.main]]
+            name = "Projects"
+            weight = 4
+            url = "projects/"
+[[menu.main]]
+            name = "Contact"
+            weight = 5
+            url = "contact/"
+ [[menu.main]]
+            name = "Dark"
+            weight = 6
+            [menu.main.params]
+                colorscheme = "dark"

@@ -44,7 +44,7 @@ disqusShortname = "yourdiscussshortname"
     colorscheme = "light"
 
     # Series see also post count
-    maxSeeAlsoItems = 5
+    maxSeeAlsoItems = 6
 
     # Enable Twemoji
     enableTwemoji = true
@@ -82,7 +82,6 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
     url = "https://www.linkedin.com/in/jithin-saji-isaac" 
 
-
 [languages]
     [languages.en]
         languagename = "English" 
@@ -113,9 +112,8 @@ disqusShortname = "yourdiscussshortname"
             name = "Contact"
             weight = 5
             url = "contact/"
-         
-
-     [languages.hi]
+       
+    [languages.hi]
         languagename = "हिन्दी"
         title = "घर"
 

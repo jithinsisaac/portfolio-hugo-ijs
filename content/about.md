@@ -21,6 +21,15 @@ Don Bosco Institute of Technology, Mumbai.
   
   
  <span style="color:red"> **If by any chance you are interested in what i do, read on!** </span>
+ 
+ ## Belief
+
+- Do It Yourself
+  - Everything is available, one only needs to search
+- Learn, unlearn, relearn
+- Make, break & remake
+
+ 
  ## Explorations
  
 * Open Source Hardware OSHW

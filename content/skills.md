@@ -16,6 +16,7 @@ slug = "skills"
 - Arduino Uno, Mega & Pro Mini
 - NodeMCU ESP8266 & ESP32
 - Raspberry Pi Zero & 3+
+- ST Nucleo & Discovery Boards
 
 ### New age Technologies
 
@@ -42,12 +43,16 @@ slug = "skills"
 
 - HTML
 - CSS - Bootstrap 4.0 - SaaS
-- Javascript - _Vue.js (pipelined)_ - _Vuetify (pipelined)_
+- Javascript
+  - _Vue.js (pipelined)_
+  - _Vuetify (pipelined)_
 
 #### Backend
 
-- PHP - _Laravel (pipelined)_
-- Python - _Django (pipelined)_
+- LAMP Stack (PHP) 
+  - _Laravel (pipelined)_
+- Python 
+  - _Django (pipelined)_
 
 #### Databases
 
