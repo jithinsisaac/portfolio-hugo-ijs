@@ -229,9 +229,9 @@ img.emoji {
     margin: 0; }
 
 .avatar img {
-  width: 15rem;
+  width: 20rem;
   height: auto;
-  border-radius: 100%; }
+  border-radius: 50%; }
   @media only screen and (max-width: 768px) {
     .avatar img {
       width: 10rem; } }
