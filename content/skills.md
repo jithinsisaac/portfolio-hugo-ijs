@@ -28,10 +28,15 @@ slug = "skills"
 
 - KiCad, only KiCad :)
 
+### Numerical computational software 
+
+- Matlab
+- Scilab
+
 ### Code Editors
 
-- Visual Studio Code
-- Notepad++
+- Visual Studio Code (Recommended for hardcore coding)
+- Notepad++ (Recommended for light use cases)
 
 ### Full Stack Web Development
 
@@ -49,17 +54,20 @@ slug = "skills"
 
 #### Backend
 
-- LAMP Stack (PHP) 
+- LAMP Stack (PHP)
   - _Laravel (pipelined)_
-- Python 
+- Python
   - _Django (pipelined)_
 
 #### Databases
 
-- MariaDB
+- SQL
+  - MariaDB, MySQL
+- NoSQL
+  - MongoDB
 
 ### Cloud Virtual Private Servers
 
-- DigitalOcean
-- Google Cloud
+- DigitalOcean 
+- Google Cloud Platform
 - AWS (only the IoT core)

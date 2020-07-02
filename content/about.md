@@ -6,7 +6,7 @@ slug = "about"
 - I remember using wordpress, blogposts and other CMS half a decade ago, and hosting it on crappy hosting servers with buggy implementations.   
 - Fast forward to 2020, the necessaity of a personal portfolio webpage inspired me to try something different. An effort of which is an attempt to design and make this portfolio & blogging page.  
 - Searching around made me read about Static Web Pages and how it was taking over the domain of blogging, and basically sites with static content, by storm.  
-- Consequently, I have explored & used the fabuolous [Hugo](https://gohugo.io/) Static site generator and hosted it quite effortlessly on [Github Pages](https://pages.github.com/).
+- Consequently, I have explored & used the fabuolous [Hugo](https://gohugo.io/) Static site generator and hosted it quite effortlessly on [Github Pages](https://pages.github.com/). (You may do it on any VPS)
 - Hugo used Markdown as a writing language, which is better suited for info & blog sites, than HTML, which is a publishing language.
 - Hugo has a certain learning curve, but when done properly, is quite satisfying.
 - Big shout out to the [hugo-coder](https://github.com/luizdepra/hugo-coder/) theme that i have used for this site.
