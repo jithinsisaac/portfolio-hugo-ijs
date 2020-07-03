@@ -82,6 +82,12 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
     url = "https://www.linkedin.com/in/jithin-saji-isaac" 
 
+[[params.social]]
+    name = "youtubechannel"
+    icon = "fab fa-youtube"
+    weight = 5
+    url = "https://www.youtube.com/channel/UCn7YD1HaO6jQZvlJ2piMxmg/playlists" 
+
 [languages]
     [languages.en]
         languagename = "English" 
