@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Jithin Saji Isaac"
     description = "Jithin Isaac's personal website"
     keywords = "blog,developer,personal"
-    info = "Embedded IoT Expertise | Full Stack Web Dev Hobbyist"
+    info = "Embedded IoT Enthusiast | Full Stack Web Dev Hobbyist"
     avatarurl = "images/avatar.jpeg"
     #gravatar = ""
     footercontent = ""
@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
     hideFooter = false
     hideCredits = false
     hideCopyright = false
-    since = 2019
+    since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -120,19 +120,16 @@ disqusShortname = "yourdiscussshortname"
             url = "workshops/"
 
             [[languages.en.menu.main]]
-            name = "CV"
-            url = "files/JithinIsaac_DBITResume.pdf"
+            name = "Academics"
             weight = 6
+            url = "academics/"
 
             [[languages.en.menu.main]]
             name = "Contact"
             weight = 7
             url = "contact/"
 
-            [[languages.en.menu.main]]
-            name = "dbLabs"
-            url = "https://dblabs.in"
-            weight = 8
+ 
        
     [languages.hi]
         languagename = "हिन्दी"

@@ -1,13 +1,14 @@
-+++
-title = "Skillset: Learned & Ever learning!"
++++ 
 slug = "skills"
 +++
+
+# Skillsets, learned & ever learning!
 
 ```
 Embedded Systems & Internet of Things
 ```
-> - There's no greater satisfaction for me than to see an embedded PCB board designed inhouse after multiple prototyping iterations.
-> - The green solder mask with your custom silkscreen hides layers of efforts & hardwork gone through to get it ready.
+> - There's no greater satisfaction for me than to see a final fabricated embedded PCB board designed inhouse, after multiple prototyping iterations.
+> - The green solder mask with your custom silkscreen hides layers of efforts & hardwork undertaken to achieve the final result
 > - The globalisation of technology & the open source adoption at the software & hardware level has truly revolutionaized the way we learn & teach electronics!   
 
 __Microcontrollers__
@@ -24,21 +25,45 @@ __Prototyping Platforms__
 - Raspberry Pi Zero & 3+
 - ST Nucleo & Discovery Boards
 ---
-__New age Technologies__ 
+__RF & Low Power WAN for IoT__ 
 - LoRaWAN
-- BLE
-- NB-IoT
+  - HopeRF
+  - Dorji
+  - Murata
+  - RAK
+- BLE using nRF SoC
+- NB-IoT using Quectel SoC
+- Wi-Fi using ESP SoC
+- NFC using NXP MIFARE
+- RFID
+- GSM/GPRS/3G using SIMCOM modules
+- GPS using uBlox
 ---
 __PCB Schematic & Designing__
 
 - KiCad, only KiCad :)
+
+---
+__Flow Programming & Dashboard__
+
+- NodeRED 
+  - Signal Capture
+  - Signal Manipulation
+  - Signal Transmission
+  - Dashboard
+  - RaspberryPi integration
+- Grafana for UI Dashboard
 
 ```
 Numerical computational software 
 ```
 
 - Matlab
+  - For Image Processing
 - Scilab
+  - For Signal Processing
+- NI LabView (Basics)
+  - Interfacing with Arduino
 
 ```
 Full Stack Web Development

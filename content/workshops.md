@@ -1,8 +1,7 @@
-+++  
-title = "Workshops conducted"
++++   
 slug = "workshops" 
 +++
-
+# Workshops conducted
 ```
 LoRaWAN: Wireless System Design using Arduino, STM, KiCad, NodeRed & Grafana
 ```
