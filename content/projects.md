@@ -9,7 +9,7 @@ slug = "projects"
 LoRaWAN
 ```
 __LoRaWAN Enabled Remote Solar Photo Voltaic Energy Monitoring System__
-- 🤩``` Ongoing Project 2020-2021```🤩
+- 🤩```Ongoing Project 2020-21```🤩
 - IEEE MTT-S SIGHT funded
 - To setup a LoRaWAN setup to monitor Solar PV installations
 - To be setup at Walvanda, Maharashtra
