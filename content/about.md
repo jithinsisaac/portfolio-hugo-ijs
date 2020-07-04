@@ -44,9 +44,8 @@ Don Bosco Institute of Technology, Mumbai.
  ## Interests
  
 * Everything Tech
-* Current Affairs
-* Financial Markets
-* Playing the Ukulele :) 
+* Current Affairs 
+* Ukulele :) 
 
  ## Checklists 
 
