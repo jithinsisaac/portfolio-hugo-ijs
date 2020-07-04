@@ -109,3 +109,5 @@ __Code Editors__
 
 - Visual Studio Code (Recommended for heavy coding)
 - Notepad++ (Recommended for light use cases)
+
+---

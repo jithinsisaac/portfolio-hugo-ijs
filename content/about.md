@@ -67,3 +67,5 @@ Don Bosco Institute of Technology, Mumbai.
  #### Formal CV, for formality!
  
 [Curriculum Vitae](/files/JithinIsaac_CV.pdf)
+
+---

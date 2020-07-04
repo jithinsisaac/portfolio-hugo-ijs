@@ -85,3 +85,6 @@ __Secret Diary__
 - User will be provided with their own secret diary, where they can make notes 
 - [Github Source Code]  
 - [Project Demo](https://dblabs.in/projects/fullstack/7-mysql/8SecretDiary-SignupLoginPage.php)
+
+
+---

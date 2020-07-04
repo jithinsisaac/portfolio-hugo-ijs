@@ -164,3 +164,5 @@ RaspberryPi: GPIO Interfacing & IoT
 - August 2019 @[DBIT-CRAI](https://www.dbit.in) 
 - July-Dec 2017 @[DBIT-CRAI](https://www.dbit.in) 
 - October 2016 @[DBIT-IETE](http://iete.dbit.in/)
+
+---
