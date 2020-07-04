@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Jithin Saji Isaac"
-    description = "Jithin Isaac's personal website"
+    description = "Jithin Saji Isaac's personal website"
     keywords = "blog,developer,personal"
     info = "Embedded IoT Enthusiast | Full Stack Web Dev Hobbyist"
     avatarurl = "images/avatar.jpeg"
