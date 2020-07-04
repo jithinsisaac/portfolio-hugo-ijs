@@ -38,21 +38,19 @@ Papers Published
 
 [Google Scholar Link](https://scholar.google.com/citations?user=2EQfsnsAAAAJ)
 
-1. J. S. Isaac, R. Kulkarni, “**Super Resolution Techniques for Medical
-   Image Processing**”, 2015 International Conference on Technologies for
-   Sustainable Development (ICTSD-2015), Feb. 04 – 06, 2015, Mumbai,
+1. J. S. Isaac, R. Kulkarni,   
+   **Super Resolution Techniques for Medical Image Processing**,   
+   2015 International Conference on Technologies for Sustainable Development (ICTSD-2015), Feb. 04 – 06, 2015, Mumbai,
    India
-2. J. S. Isaac, R. Kulkarni, “**Scaling up of Low Resolution Images using
-   Super Resolution Techniques & Performing Intensity Correction for
-   Medical Imaging**”, Journal of Biomedical Engineering and Medical
-   Imaging, ISSN: 2055-1266, Volume 2 Issue 6, Pg. 99-108, December
+2. J. S. Isaac, R. Kulkarni,   
+   **Scaling up of Low Resolution Images using Super Resolution Techniques & Performing Intensity Correction for Medical Imaging**,   
+   Journal of Biomedical Engineering and Medical Imaging, ISSN: 2055-1266, Volume 2 Issue 6, Pg. 99-108, December
    2015
-3. J. S. Isaac, R. Kulkarni, “**Intensity Correction & predicting the high
-   resolution patches for Super Resolution of Medical Images**”,
-   International Journal of Computer Science and Information Security
-   (IJCSIS) ISSN: 1947-5500, Volume 14 Issue 1, Pg. 112-117, January 2016
-4. **Energy Usage Monitoring of Household Energy Meter Using LoRaWAN Technology**  
-   R Ezhuthachan, T Mehra, J Menachery, A More, J Isaac
-   2nd International Conference on Advances in Science & Technology (ICAST)
+3. J. S. Isaac, R. Kulkarni,   
+   **Intensity Correction & predicting the high resolution patches for Super Resolution of Medical Images**,  
+   International Journal of Computer Science and Information Security (IJCSIS) ISSN: 1947-5500, Volume 14 Issue 1, Pg. 112-117, January 2016
+4. R Ezhuthachan, T Mehra, J Menachery, A More, J Isaac,    
+   **Energy Usage Monitoring of Household Energy Meter Using LoRaWAN Technology**,   
+   2nd International Conference on Advances in Science & Technology (ICAST), 2019
 
 ---
