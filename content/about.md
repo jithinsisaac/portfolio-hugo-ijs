@@ -37,7 +37,6 @@ Don Bosco Institute of Technology, Mumbai.
 - Learn, unlearn, relearn
 - Make, break & remake
 
----
 
 #### Explorations
 
@@ -51,14 +50,14 @@ Don Bosco Institute of Technology, Mumbai.
 - Full Stack Web Development
 - Cloud computing
 
+
 #### Interests
 
 - Everything Tech
 - Current Affairs
 - Football
-- Ukulele :)
+- Ukulele 
 
----
 
 #### Checklists _(pipelined)_
 
@@ -69,8 +68,9 @@ Don Bosco Institute of Technology, Mumbai.
 - Backend: Django Python
 - Cloud Certifications: AWS SSA+CCP, GCP ACE+PCA 
 
+
 #### Formal CV, for formality!
 
 [Curriculum Vitae](/files/JithinIsaac_CV.pdf)
 
----
+
