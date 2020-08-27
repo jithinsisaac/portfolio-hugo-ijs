@@ -49,7 +49,7 @@ Don Bosco Institute of Technology, Mumbai.
 - Low Cost Hardware Prototyping
 - PCB Designing
 - Full Stack Web Development
-- ## Cloud computing
+- Cloud computing
 
 #### Interests
 
@@ -66,7 +66,8 @@ Don Bosco Institute of Technology, Mumbai.
 - nRF Microcontrollers -Bare metal
 - SAMD & ST Microcontrollers -Bare Metal
 - Front End: VueJS
-- ## Backend: Django Python
+- Backend: Django Python
+- Cloud Certifications: AWS SSA+CCP, GCP ACE+PCA 
 
 #### Formal CV, for formality!
 
