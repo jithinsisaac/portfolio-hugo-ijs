@@ -94,16 +94,33 @@ __Databases__
   - MariaDB, MySQL
 - NoSQL
   - MongoDB
+---
+__Version Control__
+
+- Git SCM 
+- GitHub 
+- Using GitHub Classroom for my course work with students. 
+
+```
+Cloud Computing
+```
+> - For me, Cloud computing is not but magical  
+> - The entire concept of renting a powerful virtual instance at a fraction of the cost, combined with the freedom & flexibility which it offers, is truly phenomenal.
+
+- DigitalOcean (Started my Cloud journey on DO. The most intuitive UI ever)
+- Google Cloud Platform (Compute Engine, Cloud SQL & Dataproc)
+- Amazon Web Services (EC2, RDS, IoT)
+
 
 ``` 
 Preferred Tools & Platforms
 ```
 
-__Cloud Virtual Private Servers__
+__IDEs__
+- Arduino IDE (for AVR & SAMD controllers)
+- uVision (for ARM controllers)
+- Spyder (Python programming)
 
-- DigitalOcean 
-- Google Cloud Platform
-- AWS (only the IoT core)
 ---
 __Code Editors__
 
