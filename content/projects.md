@@ -16,6 +16,8 @@ __LoRaWAN Enabled Remote Solar Photo Voltaic Energy Monitoring System__
 - Faculty Team
   - Dr. Ashwini Kotrashetti
   - Ms. Freda Carvalho
+  - Ms. Gejo George
+  - Mr. Tayyabali Sayyed
   - Mr. Jithin Isaac
 - Student Team
   - Mr. Shreyas Kulkarni

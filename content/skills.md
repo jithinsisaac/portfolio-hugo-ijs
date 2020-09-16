@@ -7,25 +7,32 @@ slug = "skills"
 ```
 Embedded Systems & Internet of Things
 ```
+
 > - There's no greater satisfaction for me than to see a final fabricated embedded PCB board designed inhouse, after multiple prototyping iterations.
 > - The green solder mask with your custom silkscreen hides layers of efforts & hardwork undertaken to achieve the final result
-> - The globalisation of technology & the open source adoption at the software & hardware level has truly revolutionaized the way we learn & teach electronics!   
+> - The globalisation of technology & the open source adoption at the software & hardware level has truly revolutionaized the way we learn & teach electronics!
 
-__Microcontrollers__
+**Microcontrollers**
+
 - Microchip AVR 8 bit
 - Microchip SAMD ARM 32 bit
 - ST Microelectronics STM32L & STM32F ARM 32 bit
 - ESP8266 & ESP32 WiFi SoC
 - Nordic Semiconductors nRF52840
+
 ---
-__Prototyping Platforms__
+
+**Prototyping Platforms**
 
 - Arduino Uno, Mega & Pro Mini
 - NodeMCU ESP8266 & ESP32
 - Raspberry Pi Zero & 3+
 - ST Nucleo & Discovery Boards
+
 ---
-__RF & Low Power WAN for IoT__ 
+
+**RF & Low Power WAN for IoT**
+
 - LoRaWAN
   - HopeRF
   - Dorji
@@ -38,24 +45,28 @@ __RF & Low Power WAN for IoT__
 - RFID
 - GSM/GPRS/3G using SIMCOM modules
 - GPS using uBlox
+
 ---
-__PCB Schematic & Designing__
+
+**PCB Schematic & Designing**
 
 - KiCad, only KiCad :)
 
 ---
-__Flow Programming & Dashboard__
 
-- NodeRED 
+**Flow Programming & Dashboard**
+
+- NodeRED
   - Signal Capture
   - Signal Manipulation
   - Signal Transmission
   - Dashboard
   - RaspberryPi integration
 - Grafana for UI Dashboard
+- InfluxDB for Time Series Databases
 
 ```
-Numerical computational software 
+Numerical computational software
 ```
 
 - Matlab
@@ -68,11 +79,12 @@ Numerical computational software
 ```
 Full Stack Web Development
 ```
-> - I am a pure Electronics person, but smitted by Web development & its intricacies  
+
+> - I am a pure Electronics person, but smitted by Web development & its intricacies
 > - Here's my small list of tools & languges that I often use & which i would be learning in the near future.
 > - My goal is to be self sufficient to make small web apps for my IoT projects
 
-__Front End__
+**Front End**
 
 - HTML
 - CSS - Bootstrap 4.0 - SaaS
@@ -80,49 +92,68 @@ __Front End__
 - Front end JS Frameworks
   - _Vue.js (pipelined)_
   - _Vuetify (pipelined)_
+
 ---
-__Backend__
+
+**Backend**
 
 - LAMP Stack (PHP)
   - _Laravel (pipelined)_
 - Python
   - _Django (pipelined)_
+
 ---
-__Databases__
+
+**Databases**
 
 - SQL
   - MariaDB, MySQL
 - NoSQL
   - MongoDB
----
-__Version Control__
+  - InfluxDB (Time Series database)
 
-- Git SCM 
-- GitHub 
-- Using GitHub Classroom for my course work with students. 
+---
+
+**Version Control**
+
+- Git SCM
+- GitHub
+- Using GitHub Classroom for my course work with students.
+
+```
+Big Data Analytics
+```
+
+Beginner level skills in Big Data Analytics using
+
+- Apache Hadoop
+- Apache Hive
+- Hortonworks Data Platform
 
 ```
 Cloud Computing
 ```
-> - For me, Cloud computing is not but magical  
+
+> - For me, Cloud computing is not but magical
 > - The entire concept of renting a powerful virtual instance at a fraction of the cost, combined with the freedom & flexibility which it offers, is truly phenomenal.
 
 - DigitalOcean (Started my Cloud journey on DO. The most intuitive UI ever)
 - Google Cloud Platform (Compute Engine, Cloud SQL & Dataproc)
 - Amazon Web Services (EC2, RDS, IoT)
 
-
-``` 
+```
 Preferred Tools & Platforms
 ```
 
-__IDEs__
+**IDEs**
+
 - Arduino IDE (for AVR & SAMD controllers)
 - uVision (for ARM controllers)
 - Spyder (Python programming)
 
 ---
-__Code Editors__
+
+**Code Editors**
 
 - Visual Studio Code (Recommended for heavy coding)
 - Notepad++ (Recommended for light use cases)

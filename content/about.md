@@ -66,10 +66,10 @@ Don Bosco Institute of Technology, Mumbai.
 - SAMD & ST Microcontrollers -Bare Metal
 - Front End: VueJS
 - Backend: Django Python
-- Cloud Certifications: AWS SSA+CCP, GCP ACE+PCA 
+- Cloud Certifications 
 
 
-#### Formal CV, for formality!
+#### Formal CV 
 
 [Curriculum Vitae](/files/JithinIsaac_CV.pdf)
 
