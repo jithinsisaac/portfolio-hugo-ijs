@@ -69,9 +69,10 @@ Full Stack Web Development
 
 __SpO2 Tracker__
 - ```Completed Project 2020```
-- Front End: Bootstrap & Javascript
+- Front End: HTML, Bootstrap & Javascript
 - Back End: PHP
-- Database: MariaDB
+- Database: MariaDB on AWS RDS
+- Hosted on: AWS EC2
 - Project records the SpO2 i.e. Oxygen Saturation levels
 - User can enter these values & track their vitals
 - Charts are using ChartJS 
@@ -80,13 +81,23 @@ __SpO2 Tracker__
 
 __Secret Diary__
 - ```Completed Project 2020```
-- Front End: Bootstrap & Javascript
+- Front End: HTML, Bootstrap & Javascript
 - Back End: PHP
-- Database: MariaDB
+- Database: MariaDB on AWS RDS
+- Hosted on: AWS EC2
 - User authentication via SignUp & SignIn option
 - User will be provided with their own secret diary, where they can make notes 
 - [Github Source Code]  
 - [Project Demo](https://dblabs.in/projects/fullstack/7-mysql/8SecretDiary-SignupLoginPage.php)
 
+__Basic CRUD Operations via HTML-PHP Web Form__
+- ```Completed Project 2020```
+- Front End: HTML, Bootstrap 
+- Back End: PHP
+- Database: MariaDB on AWS RDS
+- Hosted on: AWS EC2
+- Basic CRUD operations
+- [Github Source Code]  
+- [Project Demo](https://dblabs.in/projects/fullstack/11-html-form/php/index.html)
 
 ---
