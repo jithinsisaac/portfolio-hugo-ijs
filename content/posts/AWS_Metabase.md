@@ -56,6 +56,7 @@ sudo docker run hello-world
 You should get the following output. If so, then docker is installed properly.
 
 {{< figure src="/images/docker-install-proper.jpg"  >}}
+  
 6. Run the following one-liner docker command for installating Metabase
 ```
 sudo docker run -d -p 3000:3000 --name metabase metabase/metabase
@@ -67,6 +68,19 @@ sudo docker run -d -p 3000:3000 --name metabase metabase/metabase
 
 {{< figure src="/images/metabase-landing-page.jpg"  >}}
 
-8. Click on 'Getting Started', enter your details and a password. Submitting this will take you to the main Dashboard page of Metabase.
+8. Click on 'Getting Started', enter your details and a password. Submitting this will take you to the main Dashboard page of Metabase.  
+  You are now ready to explore Metabase! 
 
-You are now ready to explore Metabase! 
+
+**NOTE:** If you stop your EC2 instance and then restart it, the Metabase docker container does not start automatically.
+
+a. To list the status of your docker containers, whether it has started or stopped, type:
+```
+sudo docker container ls -a
+```
+b. To start the Metabase docker container after a EC2 instance restart, type:
+```
+sudo docker container start metabase
+```
+
+Happy exploring this great open source BI tool!
