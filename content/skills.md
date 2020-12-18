@@ -154,7 +154,7 @@ Cloud Computing
 
 **3D Printer in use**
 
-- Ender 3 V2
+- Creality Ender 3 V2
 
 ```
 Version Control
