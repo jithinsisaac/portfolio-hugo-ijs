@@ -14,30 +14,35 @@ Embedded Systems & Internet of Things
 
 **Microcontrollers**
 
-- Microchip AVR 8 bit
-- Microchip SAMD ARM 32 bit
-- ST Microelectronics STM32L & STM32F ARM 32 bit
+- AVR
+  - Microchip AVR 8 bit
+- ARM
+  - Microchip SAMD ARM 32 bit
+  - ST Microelectronics STM32L & STM32F ARM 32 bit
+  - Nordic Semiconductors nRF52840
 - ESP8266 & ESP32 WiFi SoC
-- Nordic Semiconductors nRF52840
 
 ---
 
 **Prototyping Platforms**
 
-- Arduino Uno, Mega & Pro Mini
-- NodeMCU ESP8266 & ESP32
-- Raspberry Pi Zero & 3+
 - ST Nucleo & Discovery Boards
+- Arduino Uno, Mega & Pro Mini
+- ESP8266 & ESP32 Devkits
+- Raspberry Pi Zero & 3+
+
 
 ---
 
 **RF & Low Power WAN for IoT**
 
 - LoRaWAN
+  - Microchip SAMR34
+  - STM32WL (pipelined)
   - HopeRF
   - Dorji
   - Murata
-  - RAK
+  - RAK811/RAK4260
 - BLE using nRF SoC
 - NB-IoT using Quectel SoC
 - Wi-Fi using ESP SoC
@@ -90,8 +95,7 @@ Full Stack Web Development
 - CSS - Bootstrap 4.0 - SaaS
 - Javascript
 - Front end JS Frameworks
-  - _Vue.js (pipelined)_
-  - _Vuetify (pipelined)_
+  - _Vue.js (pipelined)_ 
 
 ---
 
@@ -114,11 +118,13 @@ Full Stack Web Development
 
 ---
 
-**Version Control**
-
+```
+Version Control
+```
 - Git SCM
 - GitHub
-- Using GitHub Classroom for my course work with students.
+- Bitbucket
+- Using GitHub Classroom with students 
 
 ```
 Big Data Analytics
@@ -134,20 +140,26 @@ Beginner level skills in Big Data Analytics using
 Cloud Computing
 ```
 
-> - For me, Cloud computing is not but magical
+> - For me, Cloud computing is nothing but magical
 > - The entire concept of renting a powerful virtual instance at a fraction of the cost, combined with the freedom & flexibility which it offers, is truly phenomenal.
 
+- Amazon Web Services (EC2, RDS, IoT)
+  - AWS Educate Institute admin
 - DigitalOcean (Started my Cloud journey on DO. The most intuitive UI ever)
 - Google Cloud Platform (Compute Engine, Cloud SQL & Dataproc)
-- Amazon Web Services (EC2, RDS, IoT)
+
 
 ```
 Preferred Tools & Platforms
 ```
+**Linux distros**
+- Linux Mint (Debian)
+- Ubuntu (Debian)
 
 **IDEs**
-
-- Arduino IDE (for AVR & SAMD controllers)
+- Atmel Studio (AVR & SAMD)
+- STM32CubeIDE (STM32)
+- Arduino IDE (for AVR/SAMD/STM32 controllers)
 - uVision (for ARM controllers)
 - Spyder (Python programming)
 
@@ -156,6 +168,6 @@ Preferred Tools & Platforms
 **Code Editors**
 
 - Visual Studio Code (Recommended for heavy coding)
-- Notepad++ (Recommended for light use cases)
+- Notepad++ (Recommended for Windows)
 
 ---

@@ -61,7 +61,7 @@ Don Bosco Institute of Technology, Mumbai.
 
 #### Checklists _(pipelined)_
 
-- 3D Printing on Fusion360 & FreeCAD
+- 3D Printing on FreeCAD
 - nRF Microcontrollers -Bare metal
 - SAMD & ST Microcontrollers -Bare Metal
 - Front End: VueJS
