@@ -49,6 +49,7 @@ Don Bosco Institute of Technology, Mumbai.
 - PCB Designing
 - Full Stack Web Development
 - Cloud computing
+- 3D Printing
 
 
 #### Interests

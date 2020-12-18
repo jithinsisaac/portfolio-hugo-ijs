@@ -116,15 +116,9 @@ Full Stack Web Development
   - MongoDB
   - InfluxDB (Time Series database)
 
----
+ 
 
-```
-Version Control
-```
-- Git SCM
-- GitHub
-- Bitbucket
-- Using GitHub Classroom with students 
+
 
 ```
 Big Data Analytics
@@ -148,6 +142,27 @@ Cloud Computing
 - DigitalOcean (Started my Cloud journey on DO. The most intuitive UI ever)
 - Google Cloud Platform (Compute Engine, Cloud SQL & Dataproc)
 
+```
+3D Printing
+```
+**Designing**
+- TinkerCAD
+- FreeCAD (pipelined) 
+
+**Slicing software**
+- PrusaSlicer
+- Ultimaker Cura
+
+**3D Printer in use**
+- Ender 3 V2
+
+```
+Version Control
+```
+- Git SCM
+- GitHub
+- Bitbucket
+- Using GitHub Classroom with students 
 
 ```
 Preferred Tools & Platforms
