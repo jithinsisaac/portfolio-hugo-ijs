@@ -24,16 +24,6 @@ Embedded Systems & Internet of Things
 
 ---
 
-**Prototyping Platforms**
-
-- ST Nucleo & Discovery Boards
-- Arduino Uno, Mega & Pro Mini
-- ESP8266 & ESP32 Devkits
-- Raspberry Pi Zero & 3+
-
-
----
-
 **RF & Low Power WAN for IoT**
 
 - LoRaWAN
@@ -43,13 +33,23 @@ Embedded Systems & Internet of Things
   - Dorji
   - Murata
   - RAK811/RAK4260
-- BLE using nRF SoC
-- NB-IoT using Quectel SoC
+- BLE using nRF SoC (pipelined)
+- NB-IoT using Quectel SoC (pipelined)
 - Wi-Fi using ESP SoC
 - NFC using NXP MIFARE
 - RFID
 - GSM/GPRS/3G using SIMCOM modules
-- GPS using uBlox
+- GPS using uBlox modules
+
+---
+
+**Prototyping Platforms**
+
+- ST Nucleo & Discovery Boards
+- Arduino Uno, Mega & Pro Mini
+- ESP8266 & ESP32 Devkits
+- Raspberry Pi Zero & 3+,
+and many many more!
 
 ---
 
@@ -59,7 +59,7 @@ Embedded Systems & Internet of Things
 
 ---
 
-**Flow Programming & Dashboard**
+**Flow Programming & Dashboard for IoT**
 
 - NodeRED
   - Signal Capture
@@ -95,7 +95,7 @@ Full Stack Web Development
 - CSS - Bootstrap 4.0 - SaaS
 - Javascript
 - Front end JS Frameworks
-  - _Vue.js (pipelined)_ 
+  - _Vue.js (pipelined)_
 
 ---
 
@@ -115,10 +115,6 @@ Full Stack Web Development
 - NoSQL
   - MongoDB
   - InfluxDB (Time Series database)
-
- 
-
-
 
 ```
 Big Data Analytics
@@ -145,33 +141,41 @@ Cloud Computing
 ```
 3D Printing
 ```
+
 **Designing**
+
 - TinkerCAD
-- FreeCAD (pipelined) 
+- FreeCAD (pipelined)
 
 **Slicing software**
+
 - PrusaSlicer
 - Ultimaker Cura
 
 **3D Printer in use**
+
 - Ender 3 V2
 
 ```
 Version Control
 ```
+
 - Git SCM
 - GitHub
 - Bitbucket
-- Using GitHub Classroom with students 
+- Using GitHub Classroom with students
 
 ```
 Preferred Tools & Platforms
 ```
+
 **Linux distros**
+
 - Linux Mint (Debian)
 - Ubuntu (Debian)
 
 **IDEs**
+
 - Atmel Studio (AVR & SAMD)
 - STM32CubeIDE (STM32)
 - Arduino IDE (for AVR/SAMD/STM32 controllers)
