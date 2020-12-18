@@ -37,7 +37,6 @@ Don Bosco Institute of Technology, Mumbai.
 - Learn, unlearn, relearn
 - Make, break & remake
 
-
 #### Explorations
 
 - Open Source Hardware OSHW
@@ -51,14 +50,10 @@ Don Bosco Institute of Technology, Mumbai.
 - Cloud computing
 - 3D Printing
 
-
 #### Interests
 
 - Everything Tech
 - Current Affairs
-- Football
-- Ukulele 
-
 
 #### Checklists _(pipelined)_
 
@@ -67,11 +62,8 @@ Don Bosco Institute of Technology, Mumbai.
 - SAMD & ST Microcontrollers -Bare Metal
 - Front End: VueJS
 - Backend: Django Python
-- Cloud Certifications 
+- Cloud Certifications
 
-
-#### Formal CV 
+#### Formal CV
 
 [Curriculum Vitae](/files/JithinIsaac_CV.pdf)
-
-
