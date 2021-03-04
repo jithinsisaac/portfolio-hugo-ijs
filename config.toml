@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Jithin Saji Isaac's personal website"
     keywords = "blog,developer,personal"
     info = "Embedded System Design | LPWAN IoT | Elementary Web Dev (Full Stack) & Cloud Computing"
-    avatarurl = "images/avatar.jpeg"
+    avatarurl = "images/avatar.jpg"
     #gravatar = ""
     footercontent = ""
 
