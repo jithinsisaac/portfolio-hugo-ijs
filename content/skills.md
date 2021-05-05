@@ -17,7 +17,7 @@ Embedded Systems & Internet of Things
 - AVR
   - Microchip AVR 8 bit
 - ARM
-  - Microchip SAMD ARM 32 bit
+  - Microchip SAMD & SAML ARM 32 bit
   - ST Microelectronics STM32L & STM32F ARM 32 bit
   - Nordic Semiconductors nRF52840
 - ESP8266 & ESP32 WiFi SoC
@@ -27,7 +27,7 @@ Embedded Systems & Internet of Things
 **RF & Low Power WAN for IoT**
 
 - LoRaWAN
-  - Microchip SAMR34
+  - Microchip WLR089U0 (SAMR34 based)
   - STM32WL (pipelined)
   - HopeRF
   - Dorji
@@ -35,7 +35,7 @@ Embedded Systems & Internet of Things
   - RAK811/RAK4260
 - BLE using nRF SoC (pipelined)
 - NB-IoT using Quectel SoC (pipelined)
-- Wi-Fi using ESP SoC
+- Wi-Fi using ESP32 SoC
 - NFC using NXP MIFARE
 - RFID
 - GSM/GPRS/3G using SIMCOM modules
@@ -48,6 +48,7 @@ Embedded Systems & Internet of Things
 - ST Nucleo & Discovery Boards
 - Arduino Uno, Mega & Pro Mini
 - ESP8266 & ESP32 Devkits
+- Microchip Xplained Pro boards (LoRaWAN)
 - Raspberry Pi Zero & 3+,
 and many many more!
 
@@ -115,6 +116,7 @@ Full Stack Web Development
 - NoSQL
   - MongoDB
   - InfluxDB (Time Series database)
+  - DynamoDB
 
 ```
 Big Data Analytics
@@ -171,12 +173,13 @@ Preferred Tools & Platforms
 
 **Linux distros**
 
-- Linux Mint (Debian)
+- Linux Mint (Debian) (Preferred!)
 - Ubuntu (Debian)
 
 **IDEs**
 
-- Atmel Studio (AVR & SAMD)
+- PlatformIO (Preferred! for Arduino, ESP, STM32)
+- Microchip Studio (AVR & SAMD)
 - STM32CubeIDE (STM32)
 - Arduino IDE (for AVR/SAMD/STM32 controllers)
 - uVision (for ARM controllers)
