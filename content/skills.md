@@ -178,7 +178,7 @@ Preferred Tools & Platforms
 
 **IDEs**
 
-- PlatformIO (Preferred! for Arduino, ESP, STM32)
+- PlatformIO (Preferred! for AVR/ESP/STM32)
 - Microchip Studio (AVR & SAMD)
 - STM32CubeIDE (STM32)
 - Arduino IDE (for AVR/SAMD/STM32 controllers)
