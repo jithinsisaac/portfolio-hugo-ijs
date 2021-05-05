@@ -10,6 +10,8 @@ Courses Taught
 
 | Academic Year |   Semester    |      Class       |          Courses Taught          |
 | :-----------: | :-----------: | :--------------: | :------------------------------: |
+|   2020-2021   | Even Semester  | Second Year EXTC |        Python Skill Lab         |
+|               |               | Third Year EXTC |   Database Management Systems   |
 |   2020-2021   | Odd Semester  | Second Year EXTC |        Network Theory         |
 |               |               | Fourth Year EXTC |   Big Data Analytics    |
 |   2019-2020   | Even Semester | Second Year EXTC |        Signals & Systems         |
