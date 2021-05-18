@@ -22,7 +22,7 @@ __LoRaWAN Enabled Remote Solar Photo Voltaic Energy Monitoring System__
 - To setup a LoRaWAN setup to monitor Solar PV installations
 - To be setup at Walvanda, Maharashtra
 - 85% work complete as on May 2021
-- Project progress can be viewed at [Solar Surveil](https://solarsurveildbit.in/)
+- Project progress can be viewed at the official website of the project: [Solar Surveil](https://solarsurveildbit.in/)
 - YouTube video of the project at [this link](https://www.youtube.com/watch?v=FI_uH7AuqU8)
 - Hardware
   - ATM90E26 Energy Monitoring IC
