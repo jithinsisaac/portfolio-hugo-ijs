@@ -112,11 +112,12 @@ Full Stack Web Development
 **Databases**
 
 - SQL
-  - MariaDB, MySQL
+  - MariaDB (Preferred!)
+  - MySQL
 - NoSQL
   - MongoDB
   - InfluxDB (Time Series database)
-  - DynamoDB
+  - AWS DynamoDB
 
 ```
 Big Data Analytics
@@ -136,7 +137,7 @@ Cloud Computing
 > - The entire concept of renting a powerful virtual instance at a fraction of the cost, combined with the freedom & flexibility which it offers, is truly phenomenal.
 
 - Amazon Web Services (EC2, RDS, IoT)
-  - AWS Educate Institute admin
+  - AWS Educate Institute admin for DBIT, Mumbai
 - DigitalOcean (Started my Cloud journey on DO. The most intuitive UI ever)
 - Google Cloud Platform (Compute Engine, Cloud SQL & Dataproc)
 
