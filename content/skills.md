@@ -102,8 +102,7 @@ Full Stack Web Development
 
 **Backend**
 
-- LAMP Stack (PHP)
-  - _Laravel (pipelined)_
+- LAMP Stack (PHP) 
 - Python
   - _Django (pipelined)_
 
@@ -147,8 +146,8 @@ Cloud Computing
 
 **Designing**
 
-- TinkerCAD
-- FreeCAD (pipelined)
+- FreeCAD (Preferred!)
+- TinkerCAD (for easy prototyping)
 
 **Slicing software**
 

@@ -9,12 +9,20 @@ slug = "projects"
 LoRaWAN
 ```
 
+__Accelerometer Sensor end node__
+- ```Completed Project 2021```
+- Uses Microchip WLR089U0 LoRaWAN Module + ADXL355Z
+- Sends Accelerometer data via LoRaWAN to a server for data analysis 
+- *Project Deliverable*: Development of Firmware & PCB design of sensor node
+- PCB design consists of a minitature board consisting of Li-ion battery power supply, WLR089 and ADXL355Z accelerometer sensor
+- Project Prototype completed for [Promethean Energy Pvt. Ltd.](https://www.prometheanenergy.com/) during March 2021
+
 __RH+T+Pressure Sensing end node__
 - ```Completed Project 2021```
 - Uses Microchip WLR089U0 LoRaWAN Module + BME280
 - Sends Humidity, Temperature & Pressure data via LoRaWAN to a server for data analysis 
-- Development of Firmware for the sensor end node completed
-- Project consultancy done for [TinkerBee Pvt. Ltd.](https://www.tinkerbee.in/) during Jan-March 2021
+- *Project Deliverable*: Development of Firmware for the sensor end node completed
+- Project consultancy done for [TinkerBee Pvt. Ltd.](https://www.tinkerbee.in/) during Dec 2020-March 2021
 
 __LoRaWAN Enabled Remote Solar Photo Voltaic Energy Monitoring System__
 - 🤩```Ongoing Project 2020-21```🤩
@@ -22,23 +30,30 @@ __LoRaWAN Enabled Remote Solar Photo Voltaic Energy Monitoring System__
 - To setup a LoRaWAN setup to monitor Solar PV installations
 - To be setup at Walvanda, Maharashtra
 - 85% work complete as on May 2021
-- Project progress can be viewed at the official website of the project: [Solar Surveil](https://solarsurveildbit.in/)
+- Project progress can be viewed at the **Official Website of the project: [https://SolarSurveilDBIT.in](https://solarsurveildbit.in/)**
 - YouTube video of the project at [this link](https://www.youtube.com/watch?v=FI_uH7AuqU8)
 - Hardware
   - ATM90E26 Energy Monitoring IC
   - WLR089U0 LoRaWAN Module
-  - Mini Solar Setup
+  {{< figure src="/files/ieee-lora-rms.png" caption="LoRa PV RMS" width="500">}}
+  - 1kW Mini Solar PV Setup
+  {{< figure src="/files/ieee-lora-rms-solar.jpg" caption="1kW Mini Solar PV Setup" width="500" >}}
 - Software
-  - HTML, CSS & Bootstrap
-  - LAMP & JAM Stack
+  - Firmware development for
+    - WLR089U0 LoRaWAN module
+    - ESP32 Wi-Fi module
+  - Web Development using
+    - HTML, CSS & Bootstrap
+    - LAMP & JAM Stack
   - Node-RED
   - Grafana
+  - Tinkercad for 3D modeling
 - Faculty Team
-  - Dr. Ashwini Kotrashetti
-  - Ms. Freda Carvalho
-  - Ms. Gejo George
-  - Mr. Tayyabali Sayyed
-  - Mr. Jithin Isaac
+  - Dr. Ashwini Kotrashetti 
+  - Ms. Freda Carvalho 
+  - Ms. Gejo George  
+  - Mr. Tayyabali Sayyed 
+  - Mr. Jithin Isaac (Project Guide)
 - Student Team
   - Mr. Shreyas Kulkarni
   - Mr. Keith Barnes
@@ -78,7 +93,7 @@ __Accelerometer sensor end node__
 - Uses ESP32 + ADXL355Z via I2C
 - Sends accelerometer data via Wi-Fi to a server for analysis
 - Over the air parameter tweaking via downlinks
-- Project Prototype completed for [Promethean Energy Pvt. Ltd.](https://www.prometheanenergy.com/) during April 2021
+- *Project Deliverable*: Project Prototype completed for [Promethean Energy Pvt. Ltd.](https://www.prometheanenergy.com/) during April 2021
 
 __WiBosco__
 - ```Completed Project 2018```
@@ -87,7 +102,7 @@ __WiBosco__
 - Powered directly by AC mains
 - Controlled via Mobile App
 - [Github Source Code]  
-{{< figure src="/files/WiBosco.JPG" caption="WiBosco V1" >}}
+{{< figure src="/files/WiBosco.JPG" caption="WiBosco V1" width="500">}}
 
 ```
 Full Stack Web Development
@@ -126,4 +141,23 @@ __Basic CRUD Operations via HTML-PHP Web Form__
 - [Github Source Code]  
 - [Project Demo](https://dblabs.in/projects/fullstack/11-html-form/php/index.html)
 
+```
+3D Modeling & Printing
+```
+
+__FreeCAD 3D Projects__
+- ```Ongoing Learning 2021 onwards```
+- Using FreeCAD for 3D Modeling
+- Using for enclosures & boxes for electronic components
+- Check out my [3D projects using FreeCAD](https://github.com/jithinsisaac/FreeCAD-3D-projects)
+- 3D Printing using: Creality Ender 3 V2
+
+__Tinkercad 3D Projects__
+- ```Ongoing Projects 2020 onwards```
+- Using Tinkercad (Autodesk) for 3D Modeling
+- Learnt the basics of modeling & printing using tinkercad
+- Very intuitive UI, perfect for starters
+- Next logical stage is to move to FreeCAD, coz it is awesome & FOSS
+- Check out my [3D projects using Tinkercad](https://github.com/jithinsisaac/Tinkercad-3D-projects)
+- 3D Printing using: Creality Ender 3 V2
 ---
