@@ -3,7 +3,8 @@ slug = "projects"
 +++
 
 # Projects
-**#Only completed & finished products showcased here**
+**#Only completed & finished products showcased here**  
+**##Numerous test protoypes & thousands of hours of testing & debugging form the backend :)**
 
 ```
 LoRaWAN
@@ -93,8 +94,8 @@ __Accelerometer sensor end node__
 - Uses ESP32 + ADXL355Z via I2C
 - Sends accelerometer data via Wi-Fi to a server for analysis
 - Over the air parameter tweaking via downlinks
-- *Project Deliverable*: Project Prototype completed for [Promethean Energy Pvt. Ltd.](https://www.prometheanenergy.com/) during April 2021
-
+- *Project Prototype* completed for [Promethean Energy Pvt. Ltd.](https://www.prometheanenergy.com/) during April 2021
+{{< figure src="/files/ESP32+ADXL355Z.png" width="500">}}
 __WiBosco__
 - ```Completed Project 2018```
 - IoT switch
@@ -104,6 +105,18 @@ __WiBosco__
 - [Github Source Code]  
 {{< figure src="/files/WiBosco.JPG" caption="WiBosco V1" width="500">}}
 
+```
+Other Projects
+```
+__NFC based Canteen Payment System__
+- ```Completed Project April 2018```
+- Uses ATMega328P + NXP MFRC522 contactless RFID reader/writer
+- Used for automating canteen payment transactions
+- Offline system, payment history stored on RFID tags itself. No internet required.
+- Project Prototype completed for DBIT Canteen
+- Project Video [Link1](https://drive.google.com/file/d/12bqPlo9YtEdXsXAPfipx1ijvTue2Nib1/view?usp=sharing) & [Link2](https://drive.google.com/file/d/1GCRmpkeotnqNpKEGeoUjtMOHlEQONF4j/view?usp=sharing)
+{{< figure src="/files/NFC_Canteen.jpeg" caption="NFC based Canteen Payment System " width="500">}}
+ 
 ```
 Full Stack Web Development
 ```
@@ -160,4 +173,13 @@ __Tinkercad 3D Projects__
 - Next logical stage is to move to FreeCAD, coz it is awesome & FOSS
 - Check out my [3D projects using Tinkercad](https://github.com/jithinsisaac/Tinkercad-3D-projects)
 - 3D Printing using: Creality Ender 3 V2
+
+__Modular 3D parametric design for PCB Encloures__
+- ```Completed Project June 2021```
+- Tool used: FreeCAD 
+- Used to design 3D enclosures for PCB
+- Dimensions can be adjusted to fit ANY size PCB enclosure
+- Change dimensions in a sheet as per your PCB design & you are good to go 
+- [Github Source Code](https://github.com/jithinsisaac/FreeCAD-3D-projects/tree/main/3-PCB-Enclosure-Parametric_Modified)  
+{{< figure src="/files/PCBenclosure1.jpg" caption="3D parametric design to fit any PCB enclosure " width="400">}}
 ---

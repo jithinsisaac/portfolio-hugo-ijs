@@ -14,13 +14,20 @@ Embedded Systems & Internet of Things
 
 **Microcontrollers**
 
-- AVR
-  - Microchip AVR 8 bit
-- ARM
-  - Microchip SAMD & SAML ARM 32 bit
-  - ST Microelectronics STM32L & STM32F ARM 32 bit
-  - Nordic Semiconductors nRF52840
-- ESP8266 & ESP32 WiFi SoC
+- Microchip (Atmel) AVR architecture
+  - ATMega328P (Arduino Uno)
+  - ATTiny85
+- ARM Cortex-M 32 bit microcontrollers
+  - Microchip SAMD
+    - SAMD21G18
+  - ST Microelectronics STM32
+    - STM32L476RG
+    - STM32F401RE
+    - STM32F103C8T6 (Bluepill)
+  - Nordic Semiconductors nRF52840 (pipelined)
+- Espressif Systems
+  - ESP8266 WiFi+MCU Soc
+  - ESP32 Dual core WiFi+BLE+MCU Soc
 
 ---
 
@@ -46,6 +53,7 @@ Embedded Systems & Internet of Things
 **Prototyping Platforms**
 
 - ST Nucleo & Discovery Boards
+- Microchip SAMD21 Dev boards
 - Arduino Uno, Mega & Pro Mini
 - ESP8266 & ESP32 Devkits
 - Microchip Xplained Pro boards (LoRaWAN)
