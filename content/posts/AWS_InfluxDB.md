@@ -29,18 +29,23 @@ InfluxDB is a time series database designed to handle high write and query loads
 sudo apt update
 ```
 
-3. Add the InfluxDB repository sources & Update your Ubuntu repositories once again
+3. Download the InfluxDB repository sources & Unpack it
 
 ```
-wget -qO- https://repos.influxdata.com/influxdb.key | sudo apt-key add -
-source /etc/lsb-release
-echo "deb https://repos.influxdata.com/${DISTRIB_ID,,} ${DISTRIB_CODENAME} stable" | sudo tee /etc/apt/sources.list.d/influxdb.list
-sudo apt update
+wget https://dl.influxdata.com/influxdb/releases/influxdb_1.8.6_amd64.deb
+sudo dpkg -i influxdb_1.8.6_amd64.deb
+```
+OR
+```
+wget -qO- https://repos.influxdata.com/influxdb.key | gpg --dearmor > /etc/apt/trusted.gpg.d/influxdb.gpg
+export DISTRIB_ID=$(lsb_release -si); export DISTRIB_CODENAME=$(lsb_release -sc)
+echo "deb [signed-by=/etc/apt/trusted.gpg.d/influxdb.gpg] https://repos.influxdata.com/${DISTRIB_ID,,} ${DISTRIB_CODENAME} stable" > /etc/apt/sources.list.d/influxdb.list
 ```
 
 4. Install InfluxDB in your machine
 
 ```
+sudo apt-get update
 sudo apt-get install influxdb
 ```
 
