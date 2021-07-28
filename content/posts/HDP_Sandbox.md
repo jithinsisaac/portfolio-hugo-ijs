@@ -102,6 +102,10 @@ docker update --restart unless-stopped sandbox-proxy
 docker container start sandbox-hdp
 docker container start sandbox-proxy
 ```
+Checking docker container status with:
+```
+docker container ls -a
+```
 
 You can now continue in your journey to exploring Big Data Analytics using the HDP Sandbox.. Enjoy!
 
