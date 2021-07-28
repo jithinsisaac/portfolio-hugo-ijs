@@ -93,6 +93,16 @@ hive --version
 ```
 Hadoop 2.7.3.2.6.5.0-292 & Hive 1.2.1000.2.6.5.0-292 should be obtained.
 
+17. On reboot, the docker container does not start. Do the follow for it to restart after every reboot.
+```
+docker stop sandbox-hdp
+docker stop sandbox-proxy
+docker update --restart unless-stopped sandbox-hdp
+docker update --restart unless-stopped sandbox-proxy
+docker container start sandbox-hdp
+docker container start sandbox-proxy
+```
+
 You can now continue in your journey to exploring Big Data Analytics using the HDP Sandbox.. Enjoy!
 
 **Credits:** [Peter Reiter, Thomas Feilhauer, Armin Simma from FH Vorarlberg University of Applied Sciences, Austria](https://energie.labs.fhv.at/~repe/bigdata/introduction-to-big-data-projects/tutorials/hdp-sandbox-deploy-2019/)
