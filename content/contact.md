@@ -1,9 +1,7 @@
 +++ 
 title = "Contact"
 +++
-
-# Contact
-
+ 
 
 
 If you are interested in working on any of my [current or past projects](/projects) or you want to explore any of the many electronic modules which I work on, you are most welcome to drop me an email. I will reply to you at the earliest! 

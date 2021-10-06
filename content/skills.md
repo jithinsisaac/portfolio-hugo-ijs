@@ -2,8 +2,7 @@
 slug = "skills"
 title = "Skills"
 +++
-
-# Skillsets, learned & ever learning!
+ 
 
 ```
 Embedded Systems & Internet of Things

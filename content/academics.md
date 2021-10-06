@@ -2,9 +2,7 @@
 slug = "academics"
 title = "Academics"
 +++
-
-# Academics
-
+ 
 ```
 Courses Taught
 ```

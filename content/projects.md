@@ -2,8 +2,7 @@
 slug = "projects"
 title = "Projects"
 +++
-
-# Projects
+ 
 
 **#Only completed & finished products showcased here**  
 **##Numerous test protoypes & thousands of hours of testing & debugging form the backend :)**

@@ -2,9 +2,7 @@
 slug = "about"
 title = "About"
 +++
-
-# About
-
+ 
 ```
 About the site
 ```
@@ -62,6 +60,40 @@ Don Bosco Institute of Technology, Mumbai.
 - Front End: VueJS & Backend: Django Python
 - Cloud Certifications
 
-#### Formal CV
+```
+Professional & Educational Experience
+```
+##### Professional Experience
+1. Assistant Professor,  
+Department of Electronics & Telecommunication Engineering,   
+Don Bosco Institute of Technology,  Mumbai    
+June 2012 - PRESENT
 
-[Curriculum Vitae](/files/JithinIsaac_CV.pdf)
+2.  Technical Associate,  
+Tech Mahindra, Pune  
+Nov 2010 - Sept 2011 
+
+3. Embedded Programmer,   
+Biotronic System, Mumbai  
+June 2010 - Sept 2010
+
+##### Educational Experience
+1. Bachelor of Engineering (Electronics Engineering)  
+   Shah & Anchor Kutchhi Engineering College, Mumbai  
+   August 2006 - June 2010  
+
+2.  Master of Engineering (Electronics & Telecommunication Engineering)  
+  Vivekanand Education Society's Institute of Technology, Mumbai  
+  August 2013 - August 2015
+
+```
+Project Consultancy Experience
+```
+1. TinkerBee Innovations Pvt. Ltd.
+2. Promethean Energy Pvt. Ltd.
+3. Radiojitter Concepts Lab LLP  
+
+- Consultancy activity details available in the [Projects](https://jithinsisaac.github.io/projects/) Tab
+
+#### Formal CV
+Link: [Curriculum Vitae](/files/JithinIsaac_CV.pdf)
