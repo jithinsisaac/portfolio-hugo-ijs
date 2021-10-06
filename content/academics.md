@@ -1,5 +1,6 @@
 +++ 
 slug = "academics"
+title = "Academics"
 +++
 
 # Academics

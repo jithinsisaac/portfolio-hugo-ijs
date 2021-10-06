@@ -1,5 +1,6 @@
 +++   
 slug = "workshops" 
+title = "Workshops"
 +++
 
 # Workshops conducted

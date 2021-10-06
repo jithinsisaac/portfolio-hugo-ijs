@@ -1,5 +1,6 @@
 +++ 
 slug = "projects"
+title = "Projects"
 +++
 
 # Projects

@@ -1,5 +1,6 @@
 +++ 
 slug = "skills"
+title = "Skills"
 +++
 
 # Skillsets, learned & ever learning!
