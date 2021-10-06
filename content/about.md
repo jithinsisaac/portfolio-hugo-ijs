@@ -46,8 +46,8 @@ Don Bosco Institute of Technology, Mumbai.
 - Low Power WANs & PANs
 - Low Cost Hardware Prototyping
 - PCB Designing
-- Full Stack Web Development
-- Cloud computing
+- Basic Full Stack Web Development
+- Cloud computing (Servers, DBaaS etc.)
 - 3D Printing
 
 #### Interests
@@ -56,12 +56,9 @@ Don Bosco Institute of Technology, Mumbai.
 - Current Affairs
 
 #### Checklists _(pipelined)_
-
-- 3D Printing on FreeCAD
-- nRF Microcontrollers -Bare metal
+ 
 - SAMD & ST Microcontrollers -Bare Metal
-- Front End: VueJS
-- Backend: Django Python
+- Front End: VueJS & Backend: Django Python
 - Cloud Certifications
 
 #### Formal CV

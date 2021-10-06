@@ -14,9 +14,6 @@ Embedded Systems & Internet of Things
 
 **Microcontrollers**
 
-- Microchip (Atmel) AVR architecture
-  - ATMega328P (Arduino Uno)
-  - ATTiny85
 - ARM Cortex-M 32 bit microcontrollers
   - Microchip SAMD
     - SAMD21G18
@@ -28,6 +25,9 @@ Embedded Systems & Internet of Things
 - Espressif Systems
   - ESP8266 WiFi+MCU Soc
   - ESP32 Dual core WiFi+BLE+MCU Soc
+- Microchip (Atmel) AVR architecture
+  - ATMega328P (Arduino Uno)
+  - ATTiny85
 
 ---
 
@@ -58,7 +58,7 @@ Embedded Systems & Internet of Things
 - ESP8266 & ESP32 Devkits
 - Microchip Xplained Pro boards (LoRaWAN)
 - Raspberry Pi Zero & 3+,
-and many many more!
+  and many many more!
 
 ---
 
@@ -110,7 +110,7 @@ Full Stack Web Development
 
 **Backend**
 
-- LAMP Stack (PHP) 
+- LAMP Stack (PHP)
 - Python
   - _Django (pipelined)_
 
@@ -132,7 +132,7 @@ Big Data Analytics
 
 Beginner level skills in Big Data Analytics using
 
-- Apache Hadoop
+- Apache Hadoop & HDFS
 - Apache Hive
 - Hortonworks Data Platform
 
