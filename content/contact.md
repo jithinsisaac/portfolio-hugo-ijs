@@ -7,7 +7,7 @@
 
 If you are interested in working on any of my [current or past projects](/projects) or you want to explore any of the many electronic modules which I work on, you are most welcome to drop me an email. I will reply to you at the earliest! 
 
-``` Email``` jithin dot dbit at the rate dbclmumbai dot org
+``` Email``` jithin at dbit dot in OR jithin dot dbit at the rate dbclmumbai dot org 
 
 ``` Twitter DM```  @[jithinisaac](https://twitter.com/jithinisaac/)
 
