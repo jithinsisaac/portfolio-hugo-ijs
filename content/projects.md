@@ -19,6 +19,7 @@ LoRaWAN
 - _Project Deliverable_: Development of Firmware & PCB design of sensor node
 - PCB design consists of a minitature board consisting of Li-ion battery power supply, WLR089 and ADXL355Z accelerometer sensor
 - Project Prototype completed for [Promethean Energy Pvt. Ltd.](https://www.prometheanenergy.com/) during March 2021
+{{< figure src="/files/Front-adxl-wlr.jpg" caption="ADXL355z+WLR089" width="150">}}
 
 **RH+T+Pressure Sensing end node**
 
@@ -27,6 +28,7 @@ LoRaWAN
 - Sends Humidity, Temperature & Pressure data via LoRaWAN to a server for data analysis
 - _Project Deliverable_: Development of Firmware for the sensor end node completed
 - Project consultancy done for [TinkerBee Pvt. Ltd.](https://www.tinkerbee.in/) during Dec 2020-June 2021
+- Product profile at [official Tinkerbee blog link](https://tinkerbee.in/blog/2021/09/20/weatherbee-v7/)
 
 **LoRaWAN Enabled Remote Solar Photo Voltaic Energy Monitoring System**
 
@@ -100,6 +102,17 @@ LoRaWAN
 ```
 Espressif ESP WiFi SoC
 ```
+
+**natureSense ESP32 based board for STEM Education**
+- `Completed Hardware Fabrication July-September 2021`
+- `Ongoing STEM Course for school children from Sept-Dec 2021`🤩
+- Uses ESP32 as Controller+WiFi SoC
+- PCB 7 onboard & 9 external sensors
+- Made for DBIT's CrEAST STEM program in collaboration with L&T
+- CrEAST: Center for Creative Explorations & Advanced Skilling in Technology for STEM
+- Collaborators: Mr. Atul Kumar & Mr. Joshua Chettiar (BE students AY2021-22)
+  {{< figure src="/files/natureSenseV2_3D_View_1_Edit.png" width="400">}}
+  {{< figure src="/files/natureSenseV2_SessionJPG" width="300">}}
 
 **Accelerometer sensor end node**
 

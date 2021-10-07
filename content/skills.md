@@ -91,7 +91,7 @@ Numerical computational software
   - Interfacing with Arduino
 
 ```
-Full Stack Web Development
+Basic Full Stack Web Development
 ```
 
 > - I am a pure Electronics person, but smitted by Web development & its intricacies
