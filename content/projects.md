@@ -104,15 +104,15 @@ Espressif ESP WiFi SoC
 ```
 
 **natureSense ESP32 based board for STEM Education**
-- `Completed Hardware Fabrication July-September 2021`
+- `Hardware Fabrication complete: July-September 2021`
 - `Ongoing STEM Course for school children from Sept-Dec 2021`🤩
 - Uses ESP32 as Controller+WiFi SoC
-- PCB 7 onboard & 9 external sensors
+- PCB has 7 onboard & 9 external sensor slots
 - Made for DBIT's CrEAST STEM program in collaboration with L&T
 - CrEAST: Center for Creative Explorations & Advanced Skilling in Technology for STEM
 - Collaborators: Mr. Atul Kumar & Mr. Joshua Chettiar (BE students AY2021-22)
   {{< figure src="/files/natureSenseV2_3D_View_1_Edit.png" width="400">}}
-  {{< figure src="/files/natureSenseV2_SessionJPG" width="300">}}
+  {{< figure src="/files/natureSenseV2_Session.JPG" width="300">}}
 
 **Accelerometer sensor end node**
 
